@@ -1,0 +1,7 @@
+D:\Rider\Projects\Магазин\Магазин\bin\Debug\Магазин.exe
+D:\Rider\Projects\Магазин\Магазин\bin\Debug\Магазин.pdb
+D:\Rider\Projects\Магазин\Магазин\obj\Debug\Магазин.csproj.AssemblyReference.cache
+D:\Rider\Projects\Магазин\Магазин\obj\Debug\Магазин.csproj.SuggestedBindingRedirects.cache
+D:\Rider\Projects\Магазин\Магазин\obj\Debug\Магазин.csproj.CoreCompileInputs.cache
+D:\Rider\Projects\Магазин\Магазин\obj\Debug\Магазин.exe
+D:\Rider\Projects\Магазин\Магазин\obj\Debug\Магазин.pdb
